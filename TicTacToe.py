@@ -2,13 +2,6 @@
 Introduction: Ponder and Prove
 Author: Mateo Arteaga
 """
-echo "# TicTacToe" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MateoArteaga/TicTacToe.git
-git push -u origin main
 
 #to see the playing board
 def print_board(board):
